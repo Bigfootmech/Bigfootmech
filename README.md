@@ -12,6 +12,8 @@ My favourite thing I've done so far is probably my Dragon Train mod (on Steam wo
 Took about 2 weeks of hacking a Chinese IL2CPP game. And the effect is more or less exactly what I wanted.
 I still laugh whenever I see the video.
 
+https://www.youtube.com/watch?v=SkxfaQwUHeY
+
 (the game originally has a dragon that comes on screen, and roar. replaced it with a train + HOOONK!)
 
 ### Currently working on
