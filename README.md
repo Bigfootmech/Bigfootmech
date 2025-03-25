@@ -21,7 +21,7 @@ This isn't just to the programmers - really you don't need a skill in anything. 
 
 This also isn't just for those participating in [GWJ](https://godotwildjam.com/). I'm happy to do other jams, engines, and languages!
 
-### Stuff I've done so far
+### Game Jams I've done so far
 
 If not, you can still check out the [things I've made so far](https://bigfootmech.itch.io/).
 
