@@ -13,6 +13,8 @@ Both as a form of therapy to my perfectionism, and a way to self-improvement.
 
 ---
 
+#### Join Me
+
 One of the things I want to get better at is working with others. So if we're in the same Discord or something, hit me up to jam together! 
 
 This isn't just to the programmers - really you don't need a skill in anything. The only real things you need are will, and time.
