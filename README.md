@@ -17,6 +17,12 @@ Plus I can have a reminder for the future of how far I've come :)
 
 If we're in the same Discord or something, hit me up to jam together!
 
+If not, you can still check out my [journey to self-improvement](https://bigfootmech.itch.io/).
+
+It's not much. At all. But I feel it's important to both show where I've come from, and to fail.
+
+These 'games' were all made in a week's time. Mostly by me on my own. And it's more about personal growth for me. So don't expect to see anything amazing, or even good XD.
+
 ### Currently working on
 To replace a weight-loss spreadsheet that didn't quite work smoothly, and started crashing, I'm currently re-working it in to a custom piece of software.
 
@@ -25,7 +31,7 @@ To replace a weight-loss spreadsheet that didn't quite work smoothly, and starte
 Set up like a web api, with autowiring, and sqlite storage. To kind of copy what I already know of, and understand how and why those work. As well as learning the C# build system.
 
 ### Proudest Accomplishment
-My favourite thing I've done so far is probably my Dragon Train mod (on Steam workshop, and video on YT).
+My favourite thing I've done so far is probably my [Dragon Train mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2994379969).
 
 It took about 2 weeks of hacking a Chinese IL2CPP game. And the effect is more or less exactly what I wanted.
 I still laugh whenever I see the video.
