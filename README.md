@@ -206,11 +206,15 @@ And part of that is, I want to lose weight. For personal health.
 
 Whenever I tell people, they dismiss it, because I "look fine". 
 
-But my waist is more than the British Heart Foundation recommends for good health (40 inches at the widest point). My BMI has always been more than the 'ideal' range. And my measured "body fat %" is quite high relatively.
+But 
+
+- my waist is more than the British Heart Foundation recommends for good health (40 inches at the widest point).
+- My BMI has always been more than the 'ideal' range (18.5-25)
+- And my measured "body fat %" is high 25-30%.
 
 When one thing is out, you can dismiss it. When it's a few things -- I'd say there's good reason to at least try to take action.
 
-===
+#### Historical failure
 
 I'd already tried losing weight after starting to work, since I'd only gained 5-10kg on entering uni, and new jobs (the "free biscuit" jar is NOT free!).
 
@@ -218,7 +222,7 @@ But that only managed to backfire spectacularly between advice to "eat more prot
 
 and the free calorie tracking apps putting on pressure by reducing the "calories to eat" daily (and I already felt very hungry).
 
-===
+#### Recent success
 
 More recently, I've found a bunch of youtube videos (search 1600 calories full day eating) that actually explain and break down a lot better - at least to me - the hows and whys of weight gain/loss
 
@@ -226,7 +230,7 @@ From those, I managed to set up a spreadsheet, and a program which made me stead
 
 However the spreadsheet was a faff to use, and even started crashing more and more frequently as it held more data.
 
-===
+#### A combination of factors
 
 So, having seen some people say they're making a "program" using Godot (which I thought was novel), 
 
@@ -238,7 +242,7 @@ I decided to dive in to learning C# (it's similar to Java, how hard can it be?),
 
 So now, when I have time, or feel like it, I work on that as a personal project. As well as on other game jams to keep me centered - and learning other new fun things.
 
----
+#### Goals and challenges.
 
 I hope to be able to get my project to a state where it can replace the spreadsheet completely. But my first estimate of how long that would take was ~5 years assuming I worked on it consistently - which I knew was unsustainable. And we also all know how accurate first estimates are.
 
@@ -252,7 +256,7 @@ So I'm mostly keeping it under my hat, and driving the project by my own needs f
 
 As well as re-testing the theory about what drove the success in the first place.
 
-===
+## Thank you for reading
 
 Thank you for coming on this journey with me :)
 
