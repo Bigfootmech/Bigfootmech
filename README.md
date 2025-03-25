@@ -30,7 +30,9 @@ It's not much. But I feel it's important to both show where I've come from, and 
 These 'games' were all made in a week's time. Mostly by me on my own. And it's more about personal growth for me. So don't expect to see anything too amazing. Or even working in some cases.
 
 ## Currently working on
-To replace a weight-loss spreadsheet that didn't quite work smoothly, and started crashing, I'm currently re-working it in to a custom piece of software.
+To replace a **weight-loss** spreadsheet that didn't quite work smoothly, and started crashing, 
+
+I'm currently re-working it in to a custom piece of software.
 
 - Godot frontend, because I found it easy to work with for game jams. 
 - C# backend, because I wanted to extend my Java knowledge to a new language.
