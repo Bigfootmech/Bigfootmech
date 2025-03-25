@@ -114,7 +114,7 @@ And A small [Shadertoy project](https://www.shadertoy.com/view/td3cRj) reflectin
 
 I even did a deep-dive on decompiling, to make mods for Tale of Immortal (a singleplayer, Unity, IL2CPP game). 
 
-Parly because at this point, I was stubborn in "not letting those dumb things (a game... actually Rocket Science, and university level astrophysics and aeronautics | or "standard modding for Unity" ... actually pretty advanced hacking) beat me.
+Parly because at this point, I was stubborn in "not letting those dumb things (a game... actually Rocket Science, and university level astrophysics and aeronautics | or "standard modding for Unity" ... actually pretty advanced hacking) beat me".
 
 Partly because it harked back to the a topic I was interested in earlier. It seemed like a small extension from hex editing, TSearch, and the assembly I'd done at uni... Right?
 
