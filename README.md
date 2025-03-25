@@ -7,21 +7,25 @@ This is a portfolio of sorts, to document the various tech-adjacent things I hav
 It's been sorted to newest/most relevant first.
 
 ### Game Jams
-The concept of imperfection, and hard time limits appeals to me
+Recently, I've taken to doing Game Jams. 
 
-It feels like a good way to improve without worrying too much
+Both as a form of therapy to my perfectionism, and a way to self-improvement.
 
-Hence, every now and then I'll tackle a game jam, focusing on a specific aspect or another, to try to get better.
+---
 
-Plus I can have a reminder for the future of how far I've come :)
+One of the things I want to get better at is working with others. So if we're in the same Discord or something, hit me up to jam together! 
 
-If we're in the same Discord or something, hit me up to jam together!
+This isn't just to the programmers - really you don't need a skill in anything. The only real things you need are will, and time.
 
-If not, you can still check out my [journey to self-improvement](https://bigfootmech.itch.io/).
+This also isn't just for those participating in [GWJ](https://godotwildjam.com/). I'm happy to do other jams, engines, and languages!
 
-It's not much. At all. But I feel it's important to both show where I've come from, and to fail.
+---
 
-These 'games' were all made in a week's time. Mostly by me on my own. And it's more about personal growth for me. So don't expect to see anything amazing, or even good XD.
+If not, you can still check out the [things I've made so far](https://bigfootmech.itch.io/).
+
+It's not much. But I feel it's important to both show where I've come from, and to fail.
+
+These 'games' were all made in a week's time. Mostly by me on my own. And it's more about personal growth for me. So don't expect to see anything too amazing. Or even working in some cases.
 
 ### Currently working on
 To replace a weight-loss spreadsheet that didn't quite work smoothly, and started crashing, I'm currently re-working it in to a custom piece of software.
