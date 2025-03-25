@@ -131,7 +131,7 @@ Wrong. Meetings! Every day! Probably several.
 
 After a second job that worked out even worse - It didn't help that both offices had closed down, and moved to a different city - I hung up my dev hat. 'At least for now'.
 
-#### Post-work
+### Post-work
 
 Time went by, and I still did small projects. Which I didn't consider 'real' coding.
 
@@ -139,7 +139,7 @@ I made a firefox extension. Abandoned an early-stage mod for Factorio. And made 
 
 And A small [Shadertoy project](https://www.shadertoy.com/view/td3cRj) reflecting Kerbal Space Program's requirement of "at least 3" (but likely more) satellites for full-coverage of a celestial body ground-vehicle remote control (ie: constant signal).
 
----
+#### The mod I love so much
 
 I even did a deep-dive on decompiling, to make [mods for Tale of Immortal](https://steamcommunity.com/id/bigfootmech/myworkshopfiles/?appid=1468810&sort=score&browsefilter=myfiles&view=imagewall) (a singleplayer, Unity, [IL2CPP](https://katyscode.wordpress.com/2020/06/24/il2cpp-part-1/) game). 
 
