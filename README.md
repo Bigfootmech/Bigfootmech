@@ -106,15 +106,15 @@ After a second job that worked out even worse - It didn't help that both offices
 
 Time went by, and I still did small projects. Which I didn't consider 'real' coding.
 
-I made a firefox extension. Abandoned an early-stage mod for Factorio. And made some small mods for Don't Starve Together about things that were bugging me in the game. The hardest thing being the display pictures for the mods, as I didn't want to use art I didn't have a license for - so drew everything myself.
+I made a firefox extension. Abandoned an early-stage mod for Factorio. And made some [small mods](https://steamcommunity.com/id/bigfootmech/myworkshopfiles/?appid=322330&sort=score&browsefilter=myfiles&view=imagewall) for Don't Starve Together about things that were bugging me in the game. The hardest thing being the display pictures for the mods, as I didn't want to use art I didn't have a license for - so drew everything myself.
 
 And A small [Shadertoy project](https://www.shadertoy.com/view/td3cRj) reflecting Kerbal Space Program's requirement of "at least 3" (but likely more) satellites for full-coverage of a celestial body ground-vehicle remote control (ie: constant signal).
 
 ---
 
-I even did a deep-dive on decompiling, to make mods for Tale of Immortal (a singleplayer, Unity, IL2CPP game). 
+I even did a deep-dive on decompiling, to make [mods for Tale of Immortal](https://steamcommunity.com/id/bigfootmech/myworkshopfiles/?appid=1468810&sort=score&browsefilter=myfiles&view=imagewall) (a singleplayer, Unity, [IL2CPP](https://katyscode.wordpress.com/2020/06/24/il2cpp-part-1/) game). 
 
-Parly because at this point, I was stubborn in "not letting those dumb things (a game... actually Rocket Science, and university level astrophysics and aeronautics | or "standard modding for Unity" ... actually pretty advanced hacking) beat me".
+Parly because at this point, I was stubborn in "not letting those dumb things (a game... ie: actual Rocket Science, and university level astrophysics and aeronautics | or "standard modding for a Unity game" ... actually pretty advanced hacking) beat me".
 
 Partly because it harked back to the a topic I was interested in earlier. It seemed like a small extension from hex editing, TSearch, and the assembly I'd done at uni... Right?
 
