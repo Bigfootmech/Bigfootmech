@@ -140,7 +140,7 @@ I still feel like I "don't want to forget" something useful, or "have to perform
 
 I tried an online seminar, a dev 'meetup', and just talking to developers that were still in the "corporate" space. But I still hate it. In fact, I recoil from it.
 
-===
+---
 
 But also, I started doing game jams because they were relatively approachable.
 
