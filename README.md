@@ -81,7 +81,7 @@ I was forced to make an account with some alternate to GameSpy and XFire called 
 
 I WASN'T allowed by my father to play Deathtrap Dungeon, because it seemed age-inappropriate. And instead he pointed me to Chip's Challenge as a puzzle game.
 
-I used Winamp to watch video broadcasts of Anime - which I didn't even realise was a 'thing' back then. And Pokemon on the TV was just "normal cartoons".
+I used Winamp to watch internet-radio-and-tv broadcasts including Anime - which I didn't even realise was a 'thing' back then. And Pokemon on the TV was just "normal cartoons".
 
 Of course, I also started secondary school.
 
