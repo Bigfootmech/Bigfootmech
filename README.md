@@ -11,7 +11,7 @@ It's been sorted to newest/most relevant first.
 ## Game Jams
 Recently, I've taken to doing Game Jams. 
 
-Both as a form of therapy to my perfectionism, and a way to self-improvement.
+Both as a form of therapy to perfectionism, and a way to self-improvement.
 
 ### Join Me
 
