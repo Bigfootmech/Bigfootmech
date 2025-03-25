@@ -147,7 +147,7 @@ Parly because at this point, I was stubborn in "not letting those dumb things (a
 
 Partly because it harked back to the a topic I was interested in earlier. It seemed like a small extension from hex editing, TSearch, and the assembly I'd done at uni... Right?
 
-Well after a week 15 hour decompile times, and leaving my PC on overnight, I finally managed to stumble my way through seeing the game's guts. And managed to pull off the first English code-mods for it.
+Well, after a week 15 hour decompile times, and leaving my PC on overnight, I finally managed to stumble my way through to seeing the game's guts. And managed to pull off the first English code-mods for it.
 
 There weren't exactly 'no' tutorials. But there were none for the game in English. So I had to find something adjacent.
 
