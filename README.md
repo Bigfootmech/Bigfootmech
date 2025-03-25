@@ -198,7 +198,7 @@ So I feel like I'm not alone, or a failure.
 And now I'm working on things that I think are important:
 - sustainability, and the importance of not burning out
 - getting stuff done within a time limit (game jam window), as life is time-limited. And we can't be perfect about everything all of the time.
-- learning to enjoy the process. As well as taking the time to find out what it is that I actually like, and find enjoyable.
+- learning to enjoy the process. As well as taking the time to **find out** what it is that I actually like
 
 ### My 'Calorie Tracker' project
 
