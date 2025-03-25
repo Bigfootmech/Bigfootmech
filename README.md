@@ -52,7 +52,7 @@ I got my own first PC, which I managed to kill several years later by putting a 
 
 We spent time in Net Cafes playing GTA3, vice city, Warcraft 3, and towards the end C&C Generals.
 
-I was forced to make an account with some alternate to GameSpy and XFire called 'Steam' to play Half Life, and counter strike.
+I was forced to make an account with some alternate to GameSpy and XFire called 'Steam' to play Half Life, and Counter Strike.
 
 I WASN'T allowed by my father to play Deathtrap Dungeon, because it seemed age-inappropriate. And instead he pointed me to Chip's Challenge as a puzzle game.
 
@@ -80,9 +80,13 @@ Towards the end of secondary, I also remember having an interested in hacking. A
 
 Even went to my first Anime Convention on my own.
 
+Towards the end, both school pushed me towards, and my parents told me that I had to go to University, so I picked a course the only way I knew how...
+
+It made me think of Deus Ex (2000). One of my favourite games at the time.
+
 ---
 
-During university, I continued going to anime cons as well as gaming, in tandem with other social endeavours.
+During uni, I continued going to anime cons as well as gaming, in tandem with other social endeavours.
 
 I also did some modules that included programming. Assembly, C-flavour, and Matlab.
 
@@ -125,22 +129,40 @@ Between that, and my struggles to auto-translate, and then interpret the Chinese
 ---
 
 A little more time went by, and I still can't leave well enough alone.
+
 I still feel like I "don't want to forget" something useful, or "have to perform", or "should be using spare time to look at different programming languages and styles" - the grindset mentality.
+
 I tried an online seminar, a dev 'meetup', and just talking to developers that were still in the "corporate" space. But I still hate it. In fact, I recoil from it.
 
+===
+
 But also, I started doing game jams because they were relatively approachable.
+
 With ridiculous statements like "just make a game. it can be programmed as badly as you want to, or have 1000 if statements. As long as it works".
+
+===
+
 A much more casual atmosphere.
+
 No daily stand-ups that felt like they really put the screws on, while also cutting in to time. (and I'm not saying they "are" bad. I'm saying they work very poorly for me emotionally)
 
 It was a refreshing take.
+
 And what was great, was that I could fail. So I did!
+
+===
 
 Letting go of perfectionism, and expectations, and just trying to improve has helped immensely.
 
+===
+
 Not only that, but I've seen many others who've come out with a story quite similar to mine in some ways. 
+
 Many burned-out devs out there.
+
 So I feel like I'm not alone, or a failure. 
+
+---
 
 And now I'm working on things that I think are important:
 - sustainability, and the importance of not burning out
@@ -148,13 +170,22 @@ And now I'm working on things that I think are important:
 - learning to enjoy the process. As well as taking the time to find out what it is that I actually like, and find enjoyable.
 
 And part of that is, I want to lose weight. For personal health. 
+
 Whenever I tell people, they dismiss it, because I "look fine". 
+
 But my waist is more than the British Heart Foundation recommends for good health (40 inches at the widest point). My BMI has always been more than the 'ideal' range. And my measured "body fat %" is quite high relatively.
+
 When one thing is out, you can dismiss it. When it's a few things -- I'd say there's good reason to at least try to take action.
 
+===
+
 I'd already tried losing weight after starting to work, since I'd only gained 5-10kg on entering uni, and new jobs (the "free biscuit" jar is NOT free!).
+
 But that only managed to backfire spectacularly between advice to "eat more protein" made me eat more peanutbutter, 
+
 and the free calorie tracking apps putting on pressure by reducing the "calories to eat" daily (and I already felt very hungry).
+
+===
 
 More recently, I've found a bunch of youtube videos (search 1600 calories full day eating) that actually explain and break down a lot better - at least to me - the hows and whys of weight gain/loss
 
@@ -162,23 +193,41 @@ From those, I managed to set up a spreadsheet, and a program which made me stead
 
 However the spreadsheet was a faff to use, and even started crashing more and more frequently as it held more data.
 
+===
+
 So, having seen some people say they're making a "program" using Godot (which I thought was novel), 
+
 and just enjoying it's general ease-of-use for jams,
+
 I decided to dive in to learning C# (it's similar to Java, how hard can it be?), while making my own program that would replace the spreadsheet bit by bit.
+
+===
 
 So now, when I have time, or feel like it, I work on that as a personal project. As well as on other game jams to keep me centered - and learning other new fun things.
 
+---
+
 I hope to be able to get my project to a state where it can replace the spreadsheet completely. But my first estimate of how long that would take was ~5 years assuming I worked on it consistently - which I knew was unsustainable. And we also all know how accurate first estimates are.
+
 And I hope to maybe be able to share my project with others when I'm done. Because I have many friends who face similar - or worse issues.
 
+===
+
 But there's many times when I've said I'm doing something - only to then abandon it from pressure.
+
 So I'm mostly keeping it under my hat, and driving the project by my own needs first.
+
 As well as re-testing the theory about what drove the success in the first place.
+
+===
 
 Thank you for coming on this journey with me :)
 
+===
+
 Bigfootmech
-Occasional modder / indie dev, and big gaming/anime nerd.
+
+Occasional modder / indie dev, and big anime&gaming nerd.
 
 <!--
 ## Hi there 👋
