@@ -56,7 +56,7 @@ I still laugh whenever I see the video.
 
 (the game originally has a dragon that comes on screen, and roar. replaced it with a train + HOOONK!)
 
-Yes. I feel more proud of this stupid thing than: a university degree, a martial arts black belt, or anything else I've done so far.
+Yes. I feel more proud of this stupid **thing** than: a university degree, a martial arts black belt, or anything else I've done so far.
 
 ## History (tech-related only. I have far too many stories)
 
