@@ -1,6 +1,6 @@
 (editing in progress)
 
-Hey, I'm Bigfootmech
+Hey, I'm **Bigfootmech**
 
 This is a portfolio of sorts, to document the various tech-adjacent things I have been doing over the years.
 
@@ -29,14 +29,21 @@ It's not much. But I feel it's important to both show where I've come from, and 
 
 These 'games' were all made in a week's time. Mostly by me on my own. And it's more about personal growth for me. So don't expect to see anything too amazing. Or even working in some cases.
 
-### Currently working on
+## Currently working on
 To replace a weight-loss spreadsheet that didn't quite work smoothly, and started crashing, I'm currently re-working it in to a custom piece of software.
 
 - Godot frontend, because I found it easy to work with for game jams. 
 - C# backend, because I wanted to extend my Java knowledge to a new language.
-Set up like a web api, with autowiring, and sqlite storage. To kind of copy what I already know of, and understand how and why those work. As well as learning the C# build system.
+- Set up like a web api,
+- with autowiring,
+- and sqlite storage.
+- as well as the usual testing suite
 
-### Proudest Accomplishment
+To kind of copy what I already know of, but also understand how and why those work. 
+
+And to learn the C# language and build system.
+
+## Proudest Accomplishment
 My favourite thing I've done so far is probably my [Dragon Train mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2994379969).
 
 It took about 2 weeks of hacking a Chinese IL2CPP game. And the effect is more or less exactly what I wanted.
@@ -47,7 +54,11 @@ I still laugh whenever I see the video.
 
 (the game originally has a dragon that comes on screen, and roar. replaced it with a train + HOOONK!)
 
-### History (tech-related only. I have far too many stories)
+Yes. I feel more proud of this stupid thing than: a university degree, a martial arts black belt, or anything else I've done so far.
+
+## History (tech-related only. I have far too many stories)
+
+#### First steps
 The first time I ever touched electronics would have been somewhere between 3 and 5 years old. I found this magic 'del' button on my dad's Windows 3.1 work computer that made things magically disappear.
 
 As a young kid, we also had a "Sega Megadrive" bought from the flea market dealers - later I found out that it was actually an NES repackaged. But that didn't stop us having fun on it.
@@ -56,7 +67,7 @@ I also remember my cousin introducing me to his DOS machine, and playing the ori
 
 This trend would continue through the years with various cousins, and various games. Another one of which was Worms2
 
----
+#### Early days
 
 In and around the early 2000's a lot of things happened, and I don't remember the exact order, but...
 
@@ -72,7 +83,7 @@ I used Winamp to watch video broadcasts of Anime - which I didn't even realise w
 
 Of course, I also started secondary school.
 
----
+#### Secondary School
 
 In Secondary, I distinctly remember making some projects that have now been sadly lost to time. 
 
@@ -96,7 +107,7 @@ Towards the end, both school pushed me towards, and my parents told me that I ha
 
 It made me think of Deus Ex (2000). One of my favourite games at the time.
 
----
+#### University
 
 During uni, I continued going to anime cons as well as gaming, in tandem with other social endeavours.
 
@@ -106,7 +117,7 @@ I actually really loved seeing how basic logic gates built in to an ALU.
 
 And of course, I did a final project in Java of all things.
 
----
+#### Programming Jobs
 
 After finishing, I got a job as a Java web backend developer. But something was bothering me. It just didn't feel right.
 
@@ -114,7 +125,7 @@ I felt like I was going too slowly. It didn't feel fun. And it totally wasn't wh
 
 After a second job that worked out even worse - It didn't help that both offices had closed down, and moved to a different city - I hung up my dev hat. 'At least for now'.
 
----
+#### Post-work
 
 Time went by, and I still did small projects. Which I didn't consider 'real' coding.
 
@@ -138,7 +149,9 @@ I used youtube turotials on hacking old games with Ghidra, text ones for modding
 
 Between that, and my struggles to auto-translate, and then interpret the Chinese docs, I finally managed to make my proudest accomplishment... a runaway train that swoops in and obliterates mystical Chinese monsters.
 
----
+## Recent years
+
+#### The Dev mentality
 
 A little more time went by, and I still can't leave well enough alone.
 
@@ -146,7 +159,7 @@ I still feel like I "don't want to forget" something useful, or "have to perform
 
 I tried an online seminar, a dev 'meetup', and just talking to developers that were still in the "corporate" space. But I still hate it. In fact, I recoil from it.
 
----
+#### Game Jams
 
 But also, I started doing game jams because they were relatively approachable.
 
@@ -166,7 +179,7 @@ And what was great, was that I could fail. So I did!
 
 Letting go of perfectionism, and expectations, and just trying to improve has helped immensely.
 
-===
+#### Healing
 
 Not only that, but I've seen many others who've come out with a story quite similar to mine in some ways. 
 
@@ -180,6 +193,8 @@ And now I'm working on things that I think are important:
 - sustainability, and the importance of not burning out
 - getting stuff done within a time limit (game jam window), as life is time-limited. And we can't be perfect about everything all of the time.
 - learning to enjoy the process. As well as taking the time to find out what it is that I actually like, and find enjoyable.
+
+#### My 'Calorie Tracker' project
 
 And part of that is, I want to lose weight. For personal health. 
 
