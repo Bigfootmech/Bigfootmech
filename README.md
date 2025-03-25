@@ -41,6 +41,7 @@ The first time I ever touched electronics would have been somewhere between 3 an
 As a young kid, we also had a "Sega Megadrive" bought from the flea market dealers - later I found out that it was actually an NES repackaged. But that didn't stop us having fun on it.
 
 I also remember my cousin introducing me to his DOS machine, and playing the original DOOM game with me - since I was too young to control the movement and shooting at the same time (also I found the demons scary).
+
 This trend would continue through the years with various cousins, and various games. Another one of which was Worms2
 
 ---
@@ -57,7 +58,7 @@ I WASN'T allowed by my father to play Deathtrap Dungeon, because it seemed age-i
 
 I used Winamp to watch video broadcasts of Anime - which I didn't even realise was a 'thing' back then. And Pokemon on the TV was just "normal cartoons".
 
-Of course also, I started secondary school.
+Of course, I also started secondary school.
 
 ---
 
@@ -67,13 +68,11 @@ Some of these included Flash games - one was for German homework (the windows sa
 
 I also made a personal website, that was hosted on a "free" provider. And also even made a Bionicle font for one of the pages.
 
----
-
 As time progressed, I started building my own PCs.
 
 As well as playing and making maps (mods) for Warcraft 3, and even made some 3D models that there's barely any evidence left of.
 
-I was also trying to get in to Source engine modding, and there's actually an old Steam Talk page that records some of those adventures (link left).
+I was also trying to get in to Source engine modding, and there's actually an [old Steam Talk](https://developer.valvesoftware.com/wiki/User_talk:Bigfootmech) page that records some of those adventures.
 
 My current profile picture was actually made by me in paint at lunch in school, and I treasure its sentimentality.
 
