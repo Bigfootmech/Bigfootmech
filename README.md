@@ -123,7 +123,9 @@ And of course, I did a final project in Java of all things.
 
 After finishing, I got a job as a Java web backend developer. But something was bothering me. It just didn't feel right.
 
-I felt like I was going too slowly. It didn't feel fun. And it totally wasn't what I was expecting -- nerd = alone time, right? Wrong. Meetings every day. Probably multiple!
+I felt like I was going too slowly. It didn't feel fun. And it totally wasn't what I was expecting. 
+
+nerd = alone time, right? Wrong. Meetings every day. Probably multiple!
 
 After a second job that worked out even worse - It didn't help that both offices had closed down, and moved to a different city - I hung up my dev hat. 'At least for now'.
 
