@@ -13,7 +13,7 @@ Recently, I've taken to doing Game Jams.
 
 Both as a form of therapy to my perfectionism, and a way to self-improvement.
 
-#### Join Me
+### Join Me
 
 One of the things I want to get better at is working with others. So if we're in the same Discord or something, hit me up to jam together! 
 
@@ -21,7 +21,7 @@ This isn't just to the programmers - really you don't need a skill in anything. 
 
 This also isn't just for those participating in [GWJ](https://godotwildjam.com/). I'm happy to do other jams, engines, and languages!
 
-#### Stuff I've done so far
+### Stuff I've done so far
 
 If not, you can still check out the [things I've made so far](https://bigfootmech.itch.io/).
 
