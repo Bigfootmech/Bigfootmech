@@ -20,13 +20,14 @@ If we're in the same Discord or something, hit me up to jam together!
 ### Currently working on
 To replace a weight-loss spreadsheet that didn't quite work smoothly, and started crashing, I'm currently re-working it in to a custom piece of software.
 
-Godot frontend, because I found it easy to work with for game jams. 
-C# backend, because I wanted to extend my Java knowledge to a new language.
+- Godot frontend, because I found it easy to work with for game jams. 
+- C# backend, because I wanted to extend my Java knowledge to a new language.
 Set up like a web api, with autowiring, and sqlite storage. To kind of copy what I already know of, and understand how and why those work. As well as learning the C# build system.
 
 ### Proudest Accomplishment
 My favourite thing I've done so far is probably my Dragon Train mod (on Steam workshop, and video on YT).
-Took about 2 weeks of hacking a Chinese IL2CPP game. And the effect is more or less exactly what I wanted.
+
+It took about 2 weeks of hacking a Chinese IL2CPP game. And the effect is more or less exactly what I wanted.
 I still laugh whenever I see the video.
 
 [![Watch the video](https://img.youtube.com/vi/SkxfaQwUHeY/0.jpg)](https://www.youtube.com/watch?v=SkxfaQwUHeY)
@@ -39,49 +40,90 @@ The first time I ever touched electronics would have been somewhere between 3 an
 
 As a young kid, we also had a "Sega Megadrive" bought from the flea market dealers - later I found out that it was actually an NES repackaged. But that didn't stop us having fun on it.
 
-I also remember my cousin introducing me to his DOS machine, and playing the original DOOM game with me - since I was too young to control the movement and shooting at the same time (also I found the demons scary)
+I also remember my cousin introducing me to his DOS machine, and playing the original DOOM game with me - since I was too young to control the movement and shooting at the same time (also I found the demons scary).
 This trend would continue through the years with various cousins, and various games. Another one of which was Worms2
 
+---
+
 In and around the early 2000's a lot of things happened, and I don't remember the exact order, but...
+
 I got my own first PC, which I managed to kill several years later by putting a power cable between the master and slave pins on a hard drive.
+
 We spent time in Net Cafes playing GTA3, vice city, Warcraft 3, and towards the end C&C Generals.
+
 I was forced to make an account with some alternate to GameSpy and XFire called 'Steam' to play Half Life, and counter strike.
+
 I WASN'T allowed by my father to play Deathtrap Dungeon, because it seemed age-inappropriate. And instead he pointed me to Chip's Challenge as a puzzle game.
+
 I used Winamp to watch video broadcasts of Anime - which I didn't even realise was a 'thing' back then. And Pokemon on the TV was just "normal cartoons".
+
 Of course also, I started secondary school.
 
+---
+
 In Secondary, I distinctly remember making some projects that have now been sadly lost to time. 
+
 Some of these included Flash games - one was for German homework (the windows said "das fenster" when you clicked on it).
+
 I also made a personal website, that was hosted on a "free" provider. And also even made a Bionicle font for one of the pages.
 
+---
+
 As time progressed, I started building my own PCs.
+
 As well as playing and making maps (mods) for Warcraft 3, and even made some 3D models that there's barely any evidence left of.
+
 I was also trying to get in to Source engine modding, and there's actually an old Steam Talk page that records some of those adventures (link left).
+
 My current profile picture was actually made by me in paint at lunch in school, and I treasure its sentimentality.
+
 Towards the end of secondary, I also remember having an interested in hacking. AutoHotkey automation (macros). Doing hackthissite, and basic cryptography in maths at school. Even making my own cheats for AlienVsPredator2 (single player) in TSearch, which is like an older, weaker CheatEngine. Even tried some hex-editing.
+
 Even went to my first Anime Convention on my own.
 
+---
+
 During university, I continued going to anime cons as well as gaming, in tandem with other social endeavours.
+
 I also did some modules that included programming. Assembly, C-flavour, and Matlab.
+
 I actually really loved seeing how basic logic gates built in to an ALU.
+
 And of course, I did a final project in Java of all things.
 
+---
+
 After finishing, I got a job as a Java web backend developer. But something was bothering me. It just didn't feel right.
+
 I felt like I was going too slowly. It didn't feel fun. And it totally wasn't what I was expecting -- nerd = alone time, right? Wrong. Meetings every day. Probably multiple!
+
 After a second job that worked out even worse - It didn't help that both offices had closed down, and moved to a different city - I hung up my dev hat. 'At least for now'.
 
+---
+
 Time went by, and I still did small projects. Which I didn't consider 'real' coding.
+
 I made a firefox extension. Abandoned an early-stage mod for Factorio. And made some small mods for Don't Starve Together about things that were bugging me in the game. The hardest thing being the display pictures for the mods, as I didn't want to use art I didn't have a license for - so drew everything myself.
-And A small Shadertoy project reflecting Kerbal Space Program's requirement of "at least 3" (but likely more) satellites for full-coverage of a celestial body ground-vehicle remote control (ie: constant signal).
-https://www.shadertoy.com/view/td3cRj
+
+And A small [Shadertoy project](https://www.shadertoy.com/view/td3cRj) reflecting Kerbal Space Program's requirement of "at least 3" (but likely more) satellites for full-coverage of a celestial body ground-vehicle remote control (ie: constant signal).
+
+---
 
 I even did a deep-dive on decompiling, to make mods for Tale of Immortal (a singleplayer, Unity, IL2CPP game). 
+
 Parly because at this point, I was stubborn in "not letting those dumb things (a game... actually Rocket Science, and university level astrophysics and aeronautics | or "standard modding for Unity" ... actually pretty advanced hacking) beat me.
+
 Partly because it harked back to the a topic I was interested in earlier. It seemed like a small extension from hex editing, TSearch, and the assembly I'd done at uni... Right?
+
 Well after a week 15 hour decompile times, and leaving my PC on overnight, I finally managed to stumble my way through seeing the game's guts. And managed to pull off the first English code-mods for it.
+
 There weren't exactly 'no' tutorials. But there were none for the game in English. So I had to find something adjacent.
+
 I used youtube turotials on hacking old games with Ghidra, text ones for modding games for IL2CPP, as well as MelonLoader and Harmony Monkey Patching.
+
 Between that, and my struggles to auto-translate, and then interpret the Chinese docs, I finally managed to make my proudest accomplishment... a runaway train that swoops in and obliterates mystical Chinese monsters.
+
+---
 
 A little more time went by, and I still can't leave well enough alone.
 I still feel like I "don't want to forget" something useful, or "have to perform", or "should be using spare time to look at different programming languages and styles" - the grindset mentality.
