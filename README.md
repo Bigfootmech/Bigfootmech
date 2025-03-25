@@ -13,8 +13,6 @@ Recently, I've taken to doing Game Jams.
 
 Both as a form of therapy to my perfectionism, and a way to self-improvement.
 
----
-
 #### Join Me
 
 One of the things I want to get better at is working with others. So if we're in the same Discord or something, hit me up to jam together! 
