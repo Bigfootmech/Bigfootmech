@@ -185,7 +185,7 @@ And what was great, was that I could fail. So I did!
 
 Letting go of perfectionism, and expectations, and just trying to improve has helped immensely.
 
-#### Healing
+### Healing
 
 Not only that, but I've seen many others who've come out with a story quite similar to mine in some ways. 
 
@@ -193,14 +193,14 @@ Many burned-out devs out there.
 
 So I feel like I'm not alone, or a failure. 
 
----
+===
 
 And now I'm working on things that I think are important:
 - sustainability, and the importance of not burning out
 - getting stuff done within a time limit (game jam window), as life is time-limited. And we can't be perfect about everything all of the time.
 - learning to enjoy the process. As well as taking the time to find out what it is that I actually like, and find enjoyable.
 
-#### My 'Calorie Tracker' project
+### My 'Calorie Tracker' project
 
 And part of that is, I want to lose weight. For personal health. 
 
