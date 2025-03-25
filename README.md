@@ -6,6 +6,8 @@ This is a portfolio of sorts, to document the various tech-adjacent things I hav
 
 It's been sorted to newest/most relevant first.
 
+---
+
 ### Game Jams
 Recently, I've taken to doing Game Jams. 
 
