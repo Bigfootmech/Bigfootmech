@@ -133,7 +133,7 @@ After a second job that worked out even worse - It didn't help that both offices
 
 ### Post-work
 
-Time went by, and I still did small projects. Which I didn't consider 'real' coding.
+Time went by, and I still did small projects. I didn't consider it 'real' coding.
 
 I made a firefox extension. Abandoned an early-stage mod for Factorio. And made some [small mods](https://steamcommunity.com/id/bigfootmech/myworkshopfiles/?appid=322330&sort=score&browsefilter=myfiles&view=imagewall) for Don't Starve Together about things that were bugging me in the game. The hardest thing being the display pictures for the mods, as I didn't want to use art I didn't have a license for - so drew everything myself.
 
