@@ -1,5 +1,3 @@
-(editing in progress)
-
 Hey, I'm **Bigfootmech**
 
 This is a portfolio of sorts, to document the various tech-adjacent things I have been doing over the years.
