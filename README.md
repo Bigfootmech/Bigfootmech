@@ -125,7 +125,9 @@ After finishing, I got a job as a Java web backend developer. But something was 
 
 I felt like I was going too slowly. It didn't feel fun. And it totally wasn't what I was expecting. 
 
-nerd = alone time, right? Wrong. Meetings every day. Probably multiple!
+Programming = Nerd = Alone time... right? 
+
+Wrong. Meetings! Every day! Probably several.
 
 After a second job that worked out even worse - It didn't help that both offices had closed down, and moved to a different city - I hung up my dev hat. 'At least for now'.
 
