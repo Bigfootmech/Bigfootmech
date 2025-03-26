@@ -153,6 +153,13 @@ I used youtube turotials on hacking old games with Ghidra, text ones for modding
 
 Between that, and my struggles to auto-translate, and then interpret the Chinese docs, I finally managed to make my proudest accomplishment... a runaway train that swoops in and obliterates mystical Chinese monsters.
 
+#### Final Excerpt - Modloader
+For some ungodly reason, after dousing myself in decompilation, I decided the next good idea would be to make a 'mod loader' in the style of MelonLoader for the game LifeCraft, in C++ having not touched pointers since uni.
+
+Spoiler alert: to access random parts of memory, you need pointers. Not just that, but C++ in particular is a whole new thing now.
+
+You can see the (succesful) results of the effort as one of the Git repositories here. I am also taking a remedial course (read: watching 4th year university lectures) in C++.
+
 ## Recent years
 
 #### The Dev mentality
@@ -161,7 +168,14 @@ A little more time went by, and I still can't leave well enough alone.
 
 I still feel like I "don't want to forget" something useful, or "have to perform", or "should be using spare time to look at different programming languages and styles" - the grindset mentality.
 
-I tried an online seminar, a dev 'meetup', and just talking to developers that were still in the "corporate" space. But I still hate it. In fact, I recoil from it.
+I tried 
+- an online seminar,
+- a dev 'meetup',
+- and just talking to developers that were still in the "corporate" space. 
+
+But I still hate it. 
+
+In fact, I recoil from it.
 
 #### Game Jams
 
