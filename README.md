@@ -91,7 +91,7 @@ Some of these included Flash games - one was for German homework (the windows sa
 
 I also made a personal website, that was hosted on a "free" provider. And also even made a Bionicle font for one of the pages.
 
-As time progressed, I started building my own PCs.
+As time progressed, I started building my own PCs. Of course tweaking them with regedit, and Group Policy. And being the house internet admin, and tech support.
 
 As well as playing and making maps (mods) for Warcraft 3, and even made some 3D models that there's barely any evidence left of.
 
