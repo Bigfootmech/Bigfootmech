@@ -111,7 +111,7 @@ It made me think of Deus Ex (2000). One of my favourite games at the time.
 
 During uni, I continued going to anime cons as well as gaming, in tandem with other social endeavours.
 
-I also did some modules that included programming. Assembly, C-flavour, and Matlab.
+I also did some modules that included programming. Assembly, C-flavour, Matlab, and even some [smartphone coursework](https://github.com/Bigfootmech/Bioinformatics-Android-Coursework).
 
 I actually really loved seeing how basic logic gates built in to an ALU.
 
@@ -121,11 +121,13 @@ And of course, I did a final project in Java of all things.
 
 After finishing, I got a job as a Java web backend developer. But something was bothering me. It just didn't feel right.
 
-I felt like I was going too slowly. It didn't feel fun. And it totally wasn't what I was expecting. 
+I still learned stuff. And a lot. Using Linux, setting up a dev environment, how big code bases are structured. And some of the other devs were really awesome!
+
+But I felt like I was going too slowly. It didn't feel fun. And it totally wasn't what I was expecting.
 
 Programming = Nerd = Alone time... right? 
 
-Wrong. Meetings! Every day! Probably several.
+Wrong. Meetings! Every day! Probably several. Also, I hope you like being in a room with 300 people all the time.
 
 After a second job that worked out even worse - It didn't help that both offices had closed down, and moved to a different city - I hung up my dev hat. 'At least for now'.
 
@@ -133,7 +135,7 @@ After a second job that worked out even worse - It didn't help that both offices
 
 Time went by, and I still did small projects. I didn't consider it 'real' coding.
 
-I made a firefox extension. Abandoned an early-stage mod for Factorio. And made some [small mods](https://steamcommunity.com/id/bigfootmech/myworkshopfiles/?appid=322330&sort=score&browsefilter=myfiles&view=imagewall) for Don't Starve Together about things that were bugging me in the game. The hardest thing being the display pictures for the mods, as I didn't want to use art I didn't have a license for - so drew everything myself.
+I made a [firefox extension](https://github.com/Bigfootmech/Steam-Forgetmenot). Abandoned an early-stage mod for Factorio. And made some [small mods](https://steamcommunity.com/id/bigfootmech/myworkshopfiles/?appid=322330&sort=score&browsefilter=myfiles&view=imagewall) for Don't Starve Together about things that were bugging me in the game. The hardest thing being the display pictures for the mods, as I didn't want to use art I didn't have a license for - so drew everything myself.
 
 Also A small [Shadertoy project](https://www.shadertoy.com/view/td3cRj) in WebGL reflecting Kerbal Space Program's requirement of "at least 3" (but likely more) satellites for full-coverage of a celestial body ground-vehicle remote control (ie: constant signal).
 
@@ -168,14 +170,7 @@ A little more time went by, and I still can't leave well enough alone.
 
 I still feel like I "don't want to forget" something useful, or "have to perform", or "should be using spare time to look at different programming languages and styles" - the grindset mentality.
 
-I tried 
-- an online seminar,
-- a dev 'meetup',
-- and just talking to developers that were still in the "corporate" space. 
-
-But I still hate it. 
-
-In fact, I recoil from it.
+I tried an online seminar, a dev 'meetup', and just talking to developers that were still in the "corporate" space. But I still hate it. In fact, I recoil from it.
 
 #### Game Jams
 
