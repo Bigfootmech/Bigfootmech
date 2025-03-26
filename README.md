@@ -135,7 +135,7 @@ After a second job that worked out even worse - It didn't help that both offices
 
 Time went by, and I still did small projects. I didn't consider it 'real' coding.
 
-I made a [firefox extension](https://github.com/Bigfootmech/Steam-Forgetmenot). Abandoned an early-stage mod for Factorio. And made some [small mods](https://steamcommunity.com/id/bigfootmech/myworkshopfiles/?appid=322330&sort=score&browsefilter=myfiles&view=imagewall) for Don't Starve Together about things that were bugging me in the game. The hardest thing being the display pictures for the mods, as I didn't want to use art I didn't have a license for - so drew everything myself.
+I made a [firefox extension](https://github.com/Bigfootmech/Steam-Forgetmenot). Abandoned an early-stage [mod for Factorio](https://github.com/Bigfootmech/Factorio-Blueprint-Editor). And made some [small mods](https://steamcommunity.com/id/bigfootmech/myworkshopfiles/?appid=322330&sort=score&browsefilter=myfiles&view=imagewall) for Don't Starve Together about things that were bugging me in the game. The hardest thing being the display pictures for the mods, as I didn't want to use art I didn't have a license for - so drew everything myself.
 
 Also A small [Shadertoy project](https://www.shadertoy.com/view/td3cRj) in WebGL reflecting Kerbal Space Program's requirement of "at least 3" (but likely more) satellites for full-coverage of a celestial body ground-vehicle remote control (ie: constant signal).
 
