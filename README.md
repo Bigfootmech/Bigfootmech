@@ -30,9 +30,9 @@ These 'games' were all made in a week's time. Mostly by me on my own. And it's m
 ## Game Mods
 I've technically been modding since Warcraft 3 - with varying degrees of success.
 
-The most recent game is Hollow Knight Silksong. 
-You can view the repos here, as well as
-Nexus Mods https://next.nexusmods.com/profile/Bigfootmech/mods?gameId=8136
+The most recent game is Hollow Knight Silksong. <br />
+You can view the repos here, as well as <br />
+Nexus Mods https://next.nexusmods.com/profile/Bigfootmech/mods?gameId=8136 <br />
 and Thunderstore https://thunderstore.io/c/hollow-knight-silksong/p/Bigfootmech/
 
 You can also view some of my other/older mods on my Steam Workshop page https://steamcommunity.com/id/bigfootmech/myworkshopfiles/
