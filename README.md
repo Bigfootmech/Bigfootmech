@@ -27,6 +27,18 @@ It's not much. But I feel it's important to both show where I've come from, and 
 
 These 'games' were all made in a week's time. Mostly by me on my own. And it's more about personal growth for me. So don't expect to see anything too amazing. Or even working in some cases.
 
+## Game Mods
+I've technically been modding since Warcraft 3 - with varying degrees of success.
+
+The most recent game is Hollow Knight Silksong. 
+You can view the repos here, as well as
+Nexus Mods https://next.nexusmods.com/profile/Bigfootmech/mods?gameId=8136
+and Thunderstore https://thunderstore.io/c/hollow-knight-silksong/p/Bigfootmech/
+
+You can also view some of my other/older mods on my Steam Workshop page https://steamcommunity.com/id/bigfootmech/myworkshopfiles/
+
+and steam talk page (way outdated) https://developer.valvesoftware.com/wiki/User_talk:Bigfootmech
+
 ## Currently working on
 To replace a **weight-loss** spreadsheet that didn't quite work smoothly, and started crashing, 
 
